@@ -1,0 +1,176 @@
+body {
+    font-family: Arial, sans-serif;
+   background: url('red_eyes_hu_tao_hd_genshin_impact_7-t2.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+
+}
+
+header{
+
+    padding: 0;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 252, 252);
+}
+
+.logo{
+    padding: 20px;
+    position:absolute;
+    top:0;
+    left:0;
+}
+
+.logo img {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+} 
+
+li{ 
+
+    text-decoration: none;
+    border: 10px;
+    margin: 20px; 
+    border: 2px;
+    display: inline;
+    justify-content: space-between;
+    list-style:none ;
+}
+
+nav{
+    margin:10px;
+    padding:10px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+a{
+    border-radius: 5px;
+    background-color: rgb(23,23,0,0.5);
+    border: 2px solid black;
+    color: #e03a2e;
+    text-decoration: none;
+}
+
+    
+
+.container{
+    margin-right: 10px;
+    margin-top: 100px;
+    color: #ff0000;
+    padding: 10px;
+    text-align: right;
+}
+
+.intro{
+    display: flex;
+    margin-top: 300px;
+    color: #e03a2e;
+    background: rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur;
+    border: 2px solid rgba(0, 0, 0, 0.5); 
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    border-color: #e03a2e;
+    border-width: 1px;
+    border-style: solid;
+} 
+
+.intro a{
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    text-decoration: none;
+    color: #e61b1b;
+}
+
+#Contact{
+    margin-top: 20px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur;
+    border: 2px solid rgba(0, 0, 0, 0.5); 
+    margin-top: 20px;
+    margin: 0;
+    padding: 20px;
+    color: #dd1f1f;
+    border-radius: 5px;
+    border-color: #eb0c0c;
+    border-width: 1px;
+    border-style: solid;
+    
+    
+}
+
+#Contact a{
+    text-align: left;
+     border: none;
+    bottom: 0;
+    width: 100px;
+    height: 100px;
+    text-decoration: none;
+}
+
+.portfolio {
+    color: #bb2d28;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+#About{
+    text-align: left;
+    background: rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur;
+    border: 2px solid rgba(0, 0, 0, 0.5); 
+    color: #e62323;
+    padding: 20px;
+    border-radius: 5px;
+    border-color: #c91414;
+    border-width: 1px;
+    border-style: solid;
+    
+}
+#Contact {
+    text-align: left;
+     
+}
+footer{
+    font-family: Arial, sans-serif;
+    text-align: left;
+    font-style: italic;
+    padding: 20px;
+    color: #df2626;
+}
+
+
+.example img{
+    width: 100px;
+    height: 100px;
+}
+
+.intro img{
+    width:300px ;
+    height: 300px;
+    border-radius: 20%;
+    
+}
+
+.img1{
+    margin-right: 100px;
+    width: 250px;
+    height: 250px;
+}
+
+#Contact img{
+
+    height: 50px;
+    width: 50px;
+
+}
